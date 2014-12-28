@@ -18,16 +18,14 @@ avatar: http://muiskis.files.wordpress.com/2011/02/buddypic.png?w=166&h=180
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
+  email: valeria(@)sokeri.org
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
   instagram: 
-  linkedin: 
+  linkedin: http://fi.linkedin.com/in/valeriag
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: muiskis
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
@@ -37,7 +35,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: www.sokeri.org
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
